@@ -1,0 +1,32 @@
+body {
+    background-color: pink;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: #FFC0CB;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: #FFF0F5;
+    color: #FF1493;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : #FFF0F5;
+    color: #FF1493;
+}
